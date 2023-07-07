@@ -1,0 +1,21 @@
+{
+  "name": "react-dd",
+  "version": "1.0.0",
+  "description": "A deep dive in react.",
+  "main": "script.js",
+  "scripts": {
+    "test": "test-react-dd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "react-deep-dive"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Saksham Koul",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
